@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/0.svg</file>
+        <file>res/1.svg</file>
+        <file>res/2.svg</file>
+        <file>res/3.svg</file>
+        <file>res/4.svg</file>
+        <file>res/5.svg</file>
+        <file>res/6.svg</file>
+        <file>res/7.svg</file>
+<file>res/8.svg</file>
+<file>res/9.svg</file>
+<file>res/10.svg</file>
+<file>res/11.svg</file>
+<file>res/12.svg</file>
+<file>res/13.svg</file>
+<file>res/14.svg</file>
+<file>res/15.svg</file>
+<file>res/16.svg</file>
+    </qresource>
+</RCC>
